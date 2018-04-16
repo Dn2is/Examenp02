@@ -8,8 +8,9 @@ Se desarrolla un bot en la red social conocida como Telegram donde se enciende u
 <LI>DENNIS CAÑAS</LI>
 <LI>EMILIO VILLATORO</LI>
 <LI>A<LEXANDER RUIZ</LI>
+  <li></li>
 </UL>
 <br>
 
 # Tecnologias Utilizadas
-NodeJS\  Arduino IDE\  Telegram\ 
+NodeJS<br>  Arduino IDE<br> Telegram<br>
