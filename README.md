@@ -1,7 +1,7 @@
 # Examenp02
 Se desarrolla un bot en la red social conocida como Telegram donde se enciende una alarma con el boton en la placa de arduino y se apaga con un mensaje desde telegram.
 
-#INTEGRAMTES:
+# INTEGRAMTES:
 <BR>
 <UL>
 <LI>JUAN MEJIA</LI>
@@ -9,3 +9,7 @@ Se desarrolla un bot en la red social conocida como Telegram donde se enciende u
 <LI>EMILIO VILLATORO</LI>
 <LI>A<LEXANDER RUIZ</LI>
 </UL>
+<br>
+
+#Tecnologias Utilizadas
+NodeJS  Arduino IDE  Telegram 
