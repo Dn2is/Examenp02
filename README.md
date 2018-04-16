@@ -7,8 +7,7 @@ Se desarrolla un bot en la red social conocida como Telegram donde se enciende u
 <LI>JUAN MEJIA</LI>
 <LI>DENNIS CAÑAS</LI>
 <LI>EMILIO VILLATORO</LI>
-<LI>A<LEXANDER RUIZ</LI>
-  <li></li>
+<LI>ALEXANDER RUIZ</LI>
 </UL>
 <br>
 
