@@ -1,13 +1,13 @@
 # Examenp02
 Se desarrolla un bot en la red social conocida como Telegram donde se enciende una alarma con el boton en la placa de arduino y se apaga con un mensaje desde telegram.
 
-# INTEGRAMTES:
+# INTEGRANTES:
 <BR>
 <UL>
-<LI>JUAN MEJIA</LI>
-<LI>DENNIS CAÑAS</LI>
-<LI>EMILIO VILLATORO</LI>
-<LI>ALEXANDER RUIZ</LI>
+<LI>JUAN ANTONIO MEJIA RIVERA</LI>
+<LI>DENNIS VLADIMIR CAÑAS</LI>
+<LI>EMILIO ENRIQUE VILLATORO TORRES</LI>
+<LI>JUANALEXANDER RUIZ RIVAS</LI>
 </UL>
 <br>
 
