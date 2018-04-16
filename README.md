@@ -11,5 +11,5 @@ Se desarrolla un bot en la red social conocida como Telegram donde se enciende u
 </UL>
 <br>
 
-#Tecnologias Utilizadas
-NodeJS  Arduino IDE  Telegram 
+# Tecnologias Utilizadas
+NodeJS\  Arduino IDE\  Telegram\ 
