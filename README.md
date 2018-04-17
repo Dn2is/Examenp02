@@ -5,7 +5,7 @@ Se desarrolla un bot en la red social conocida como Telegram donde se enciende u
 <BR>
 <UL>
 <LI>JUAN ANTONIO MEJIA GRANADOS</LI>
-<LI>DENNIS VLADIMIR CAÑAS</LI>
+<LI>DENNIS VLADIMIR CAÑAS BARRIENTOS</LI>
 <LI>EMILIO ENRIQUE VILLATORO TORRES</LI>
 <LI>JUAN ALEXANDER RUIZ RIVAS</LI>
 </UL>
